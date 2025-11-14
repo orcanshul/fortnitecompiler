@@ -11,6 +11,7 @@ Atleast 8GB Ram is reccomended, the higher the better (I could barely run Mistra
 uh yeah
 
 use this to become 10x hackything champion + ego
-
 Also highly reccomend running in python 3.11, as PyArrow is not initialized for the later ver. of Python.
 
+
+(make your own venv and run pip install -r requirements.txt to get all of the required plugins)
