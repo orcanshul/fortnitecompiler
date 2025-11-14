@@ -9,4 +9,8 @@ REQUIREMENTS:
 You can change off the models that you would like to use on streamlit itself. However, make sure to have said model(s) on your local machine
 Atleast 8GB Ram is reccomended, the higher the better (I could barely run Mistral but if you have higher specs definetly run the GPToss)
 uh yeah
+
 use this to become 10x hackything champion + ego
+
+Also highly reccomend running in python 3.11, as PyArrow is not initialized for the later ver. of Python.
+
